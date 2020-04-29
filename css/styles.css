@@ -1,0 +1,70 @@
+hr {
+  margin:50px;
+}
+
+img {
+  margin:50px;
+}
+
+#author-image {
+  width:84px;
+  height:84px;
+  border-radius:100%;
+  margin-bottom:15px;
+}
+
+.author {
+  text-align: center;
+}
+
+h1, footer {
+  margin-top:80px;
+  margin-bottom:20px;
+  text-align:center;
+}
+
+h1 {
+  font-size:55px;
+}
+
+.body {
+  color:grey;
+  font-size:17px;
+  line-height:170%;
+  text-align:center;
+}
+
+.contents {
+display:inline-block;
+text-align:left;
+margin-left:60px;
+}
+
+.sticky-header {
+  top:0px;
+  width:100%;
+  height:35px;
+  position:fixed;
+  background-color:#d9d9d9;
+}
+
+.social-icon, .ref {
+  color:inherit;
+}
+
+.body p {
+  margin-left:20%;
+  margin-right:20%;
+}
+
+.intro {
+  text-align:center;
+}
+
+.logo {
+  margin:0px;
+  height:31px;
+  padding:0px;
+  width:31px;
+  margin-left:20px;
+}
